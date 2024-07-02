@@ -1,0 +1,15 @@
+
+
+#profile_section {
+	width:100%;
+	max-width: 500px;
+	margin:auto;
+}
+
+label {
+	text-align: left;
+}
+
+.profile {
+	padding-top: 1%;
+}

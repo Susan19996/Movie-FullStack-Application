@@ -1,0 +1,16 @@
+#need_login {
+    margin-left: 25%;
+}
+
+.random_display {
+    margin-left: 10%;
+}
+
+.v_scroll {
+    overflow-y: scroll;
+    height: 400px;
+}
+
+.whitespace {
+    white-space: pre;
+}
